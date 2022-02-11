@@ -6,7 +6,7 @@ TanujJain-TJ@github:~$ sudo apt-get details
         _..._             <------------------>
       .'     '.      _    ╭──────────── About ────────────── 
      /    .-""-\   _/ \   │ USER: Tanuj Jain 
-   .-|   /:.   |  |   |   │ ROLE: Full Stack Developer
+   .-|   /:.   |  |   |   │ ROLE: Full Stack Web Developer
    |  \  |:.   /.-'-./    ├──────────── Skills ───────────── 
    | .-'-;:__.'    =/     │ BACKEND: PHP
    .'=  *=| TJ  _.='      │ FRONTEND: HTML, CSS, Bootstrap 
