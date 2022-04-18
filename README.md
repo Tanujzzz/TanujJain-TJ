@@ -1,8 +1,8 @@
 ### 👋 Hello visitor ###
 ```yml
-TanujJain-TJ@github:~$ sudo apt-get details
+SrTanuj@github:~$ sudo apt-get details
 
-                          TanujJain-TJ@github
+                          SrTanuj@github
         _..._             <------------------>
       .'     '.      _    ╭──────────── About ────────────── 
      /    .-""-\   _/ \   │ USER: Tanuj Jain 
