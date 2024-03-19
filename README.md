@@ -1,6 +1,6 @@
 ### 👋 Hello visitor ###
 ```yml
-TanujJain-TJ@github:~$ sudo apt-get details
+Tanujzzz@github:~$ sudo apt-get details
 
                           TanujJain-TJ@github
         _..._             <------------------>
