@@ -2,7 +2,7 @@
 ```yml
 Tanujzzz@github:~$ sudo apt-get details
 
-                          TanujJain-TJ@github
+                          Tanujzzz@github
         _..._             <------------------>
       .'     '.      _    ╭──────────── About ────────────── 
      /    .-""-\   _/ \   │ USER: Tanuj Jain 
